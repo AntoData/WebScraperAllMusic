@@ -1,4 +1,4 @@
-from Code import WrapperForWebScrapper as wfws
+from Code import WrapperForWebScraper as wfws
 def main():
     try:
         artist = input("Give me the name of an artist:\n")
