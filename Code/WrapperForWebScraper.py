@@ -6,7 +6,7 @@ Created on 4 ago. 2019
 from selenium import webdriver
 import time
 from selenium.webdriver.common.action_chains import ActionChains
-from Code.WebScrapperForAllMusic import parserForInformation
+from Code.WebScraperForAllMusic import parserForInformation
 
 def getDiscography(artist):
     """
